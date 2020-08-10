@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="achen-impl-member" />
+        <module name="achen-impl-wechat" />
+        <module name="achen-springcloud-common" />
+        <module name="rocketmq-console-ng" />
+        <module name="test-4-rocketmq" />
+        <module name="achen-springcloud-gateway" />
+        <module name="achen-springcloud-base" />
+        <module name="achen-service-api-member" />
+        <module name="achen-service-api-wechat" />
+        <module name="achen-rocketmq" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="achen-rocketmq" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="achen-impl-member" options="-parameters" />
+      <module name="achen-impl-wechat" options="-parameters" />
+      <module name="achen-rocketmq" options="-parameters" />
+      <module name="achen-service-Impl" options="-parameters" />
+      <module name="achen-service-api" options="-parameters" />
+      <module name="achen-service-api-member" options="-parameters" />
+      <module name="achen-service-api-wechat" options="-parameters" />
+      <module name="achen-springcloud-base" options="-parameters" />
+      <module name="achen-springcloud-basics" options="" />
+      <module name="achen-springcloud-common" options="-parameters" />
+      <module name="achen-springcloud-gateway" options="-parameters" />
+      <module name="test-4-rocketmq" options="-parameters" />
+    </option>
+  </component>
+</project>
