@@ -8,8 +8,11 @@
     <file url="file://$PROJECT_DIR$/achen-springcloud-base/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/achen-springcloud-basics/achen-springcloud-gateway/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/achen-springcloud-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/achen-springcloud-logs/achen-springcloud-logs-aop/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/achen-springcloud-logs/achen-springcloud-logs-consumer/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/achen-springcloud-system/rocketmq-console/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/achen-springcloud-system/rocketmq-console/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/test-system/test-4-rocketmq/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test-system/test-4-rocketmq2/src/main/java" charset="UTF-8" />
   </component>
 </project>

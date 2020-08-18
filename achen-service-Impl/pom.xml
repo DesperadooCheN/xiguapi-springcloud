@@ -15,6 +15,17 @@
         <module>achen-impl-wechat</module>
         <module>achen-impl-member</module>
     </modules>
-
+    <dependencies>
+        <dependency>
+            <groupId>com.achen</groupId>
+            <artifactId>achen-springcloud-logs-aop</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>com.achen</groupId>
+            <artifactId>achen-springcloud-base</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 
 </project>
