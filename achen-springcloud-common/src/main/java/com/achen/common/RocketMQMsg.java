@@ -12,7 +12,7 @@ public class RocketMQMsg {
         String msg = JSONObject.toJSONString(o);
         MessageBuilder<String> stringMessageBuilder = MessageBuilder.withPayload(msg);
         stringMessageBuilder.setHeader("msg", msg);
-        Message message = (Message) stringMessageBuilder.build();
+        Message message = stringMessageBuilder.build();
         return message;
     }
 

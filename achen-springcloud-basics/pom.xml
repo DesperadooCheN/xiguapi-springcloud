@@ -14,4 +14,11 @@
         <module>achen-springcloud-gateway</module>
     </modules>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.achen</groupId>
+            <artifactId>achen-springcloud-common</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 </project>

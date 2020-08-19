@@ -13,6 +13,7 @@ public class MemberServiceImpl implements MemberService {
 
     @Override
     public Object getTest() {
-        return "获取wechat： "+wechatServiceFeign.Test();
+        int a = 1;
+        return "获取wechat： "+wechatServiceFeign.Test(a);
     }
 }

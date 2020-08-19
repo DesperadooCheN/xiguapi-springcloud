@@ -1,0 +1,5 @@
+com\achen\rocket\mapper\OrderMapper.class
+com\achen\rocket\service\impl\ProducerImpl.class
+com\achen\rocket\entity\OrderEntity.class
+com\achen\rocket\service\Producer.class
+com\achen\rocket\listener\SyncProducerListener.class

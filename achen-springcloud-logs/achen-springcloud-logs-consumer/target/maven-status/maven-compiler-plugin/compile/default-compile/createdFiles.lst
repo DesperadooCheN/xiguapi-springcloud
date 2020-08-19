@@ -1,0 +1,4 @@
+com\achen\log\mapper\ErrorLogMapper.class
+com\achen\log\consumer\LogConsumer.class
+com\achen\log\AppLog.class
+com\achen\log\entity\ErrorLogEntity.class

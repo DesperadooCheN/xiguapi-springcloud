@@ -1,0 +1,7 @@
+com\achen\rocketmq2\consumer\TestConsumer.class
+com\achen\rocketmq2\consumer\TransactionalConsumer.class
+com\achen\rocketmq2\mapper\DispatchMapper.class
+com\achen\rocketmq2\entity\OrderEntity.class
+com\achen\rocketmq2\entity\DispatchEntity.class
+com\achen\rocketmq2\entity\TestEntity.class
+com\achen\rocketmq2\RocketMQ2App.class
